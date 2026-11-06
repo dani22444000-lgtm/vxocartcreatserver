@@ -2,10 +2,10 @@
   "name": "vexo-card-generator",
   "version": "1.0.0",
   "description": "A Node.js server to generate wallet cards with barcodes and text",
-  "main": "server.js",
+  "main": "crtimgcreate1.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "start": "node crtimgcreate1.js",
+    "dev": "node --watch crtimgcreate1.js"
   },
   "keywords": [
     "card",
